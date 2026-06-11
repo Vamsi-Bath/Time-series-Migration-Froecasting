@@ -1,6 +1,6 @@
 # International Migration Forecasting Intelligence
 
-A modular Streamlit application for forecasting international migration flows, evaluating competing models, exploring socio-economic drivers, and visualising findings.
+A modular Streamlit application for forecasting international migration flows, evaluating competing models, exploring socio-economic drivers.
 
 ## What is included
 
