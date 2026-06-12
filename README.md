@@ -75,3 +75,6 @@ Your CSV should contain:
 - optionally, numeric socio-economic indicators, such as `unemployment_rate`, `gdp_growth`, `policy_index`, `visa_processing_days`
 
 A demo file is included at `data/sample_migration.csv`.
+
+![Dashboard](DashboardFinal.png)
+
